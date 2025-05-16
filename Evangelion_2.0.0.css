@@ -1,18 +1,16 @@
 /**
- * @name Evangelion 
- * @author BoVer 2.0.0
+ * @name Evangelion 2.0.0
+ * @author BoVer 
  * @version 2.0.0
- * @description Highly customizable theme for BetterDiscord.
- * @source https://github.com/ClearVision/ClearVision-v6
- * @website https://clearvision.github.io
- * @invite dHaSxn3
+ * @description Theme pour les bg de home of no bitches (sauf Repulator)
+ * @source Le seul et unique BoVer
+ * @website https://www.youtube.com/@Bo_Ver
  */
  @import url(https://raw.githubusercontent.com/BobverCool/Evangelion-BetterDiscord/refs/heads/main/Evangelion.css);
-/* Credits to Zerthox for making the original theme. */
+/* Credits to Zerthox for making the base format. */
 
-/* IMPORT CSS */
 
-/* SETTINGS */
+/* ROOT */
 :root{--main-color: #5c5c5c;--hover-color: #ffffff;--success-color: #43b581;--danger-color: #8a0000;--channel-unread: var(--main-color);--channel-color: rgb(191, 229, 255);--muted-color: rgba(0, 0, 0, 0.1);--channel-text-selected: #000000;--url-color: var(--main-color);--online-color: #43b581;
   --idle-color: #faa61a;--dnd-color: #982929;--offline-color: #d63939;--streaming-color: #593695;--main-font: gg sans, Helvetica Neue, Helvetica, Arial, sans-serif;--code-font: Consolas, Liberation Mono, Menlo, Courier, monospace;--font-display: var(--main-font);
   --text-normal: rgb(255, 255, 255);--text-muted: #e23232;--channels-width: 220px;--members-width: 240px;--background-shading: 100%;--background-overlay: rgba(0, 0, 0, 0.6);
